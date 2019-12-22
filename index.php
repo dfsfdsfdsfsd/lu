@@ -88,71 +88,11 @@ w.getRequireJSQueue = function() {return q;};
 <meta http-equiv="pragma" content="no-cache"/>
 <meta http-equiv="cache-control" content="no-cache,must-revalidate"/>
 <meta http-equiv="expires" content="0"/>
-<link rel="canonical" href="https://www.tripadvisor.com/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html">
 <meta property="og:title" content="THE 10 BEST Fun Activities &amp; Games in Luxembourg Province - TripAdvisor"/>
 <meta property="og:description" content="Top Luxembourg Province Fun Activities &amp; Games: See reviews and photos of fun activities &amp; games in Luxembourg Province, Belgium on TripAdvisor."/>
 <meta property="og:image" content="https://media-cdn.tripadvisor.com/media/photo-s/01/78/61/7a/durbuy.jpg"/>
 <meta property="og:image:width" content="550"/>
 <meta property="og:image:height" content="412"/>
-<meta property="fb:pages" content="5863091683">
-<meta property="fb:pages" content="329182043776593">
-<meta name="keywords" content="Luxembourg Province, The Ardennes, Wallonia, Things to do in Luxembourg Province, attraction, activity, things to do, fun, advice, attractions, attractions in Luxembourg Province, The Ardennes, Wallonia, activities in Luxembourg Province, The Ardennes, Wallonia, things to do in Luxembourg Province, The Ardennes, Wallonia, vacation, reviews, travel"/>
-<meta name="description" content="Top Luxembourg Province Fun Activities &amp; Games: See reviews and photos of fun activities &amp; games in Luxembourg Province, Belgium on TripAdvisor."/>
-<link rel="alternate" hreflang="en" href="https://www.tripadvisor.com/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="en-GB" href="https://www.tripadvisor.co.uk/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="en-CA" href="https://www.tripadvisor.ca/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="fr-CA" href="https://fr.tripadvisor.ca/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="it" href="https://www.tripadvisor.it/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="es" href="https://www.tripadvisor.es/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="de" href="https://www.tripadvisor.de/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="fr" href="https://www.tripadvisor.fr/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="ja" href="https://www.tripadvisor.jp/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="zh-Hans" href="https://cn.tripadvisor.com/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="en-IN" href="https://www.tripadvisor.in/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="sv" href="https://www.tripadvisor.se/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="nl" href="https://www.tripadvisor.nl/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="pt" href="https://www.tripadvisor.com.br/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="tr" href="https://www.tripadvisor.com.tr/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="da" href="https://www.tripadvisor.dk/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="es-MX" href="https://www.tripadvisor.com.mx/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="en-IE" href="https://www.tripadvisor.ie/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="ar" href="https://ar.tripadvisor.com/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="ar-EG" href="https://www.tripadvisor.com.eg/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="cs" href="https://www.tripadvisor.cz/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="de-AT" href="https://www.tripadvisor.at/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="el" href="https://www.tripadvisor.com.gr/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="en-AU" href="https://www.tripadvisor.com.au/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="en-MY" href="https://www.tripadvisor.com.my/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="en-NZ" href="https://www.tripadvisor.co.nz/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="en-PH" href="https://www.tripadvisor.com.ph/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="en-SG" href="https://www.tripadvisor.com.sg/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="en-ZA" href="https://www.tripadvisor.co.za/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="es-AR" href="https://www.tripadvisor.com.ar/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="es-CL" href="https://www.tripadvisor.cl/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="es-CO" href="https://www.tripadvisor.co/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="es-PE" href="https://www.tripadvisor.com.pe/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="es-VE" href="https://www.tripadvisor.com.ve/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="fi" href="https://www.tripadvisor.fi/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="hu" href="https://www.tripadvisor.co.hu/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="id" href="https://www.tripadvisor.co.id/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="he" href="https://www.tripadvisor.co.il/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="ko" href="https://www.tripadvisor.co.kr/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="nb" href="https://no.tripadvisor.com/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="pl" href="https://pl.tripadvisor.com/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="pt-PT" href="https://www.tripadvisor.pt/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="ru" href="https://www.tripadvisor.ru/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="sk" href="https://www.tripadvisor.sk/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="sr" href="https://www.tripadvisor.rs/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="th" href="https://th.tripadvisor.com/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="vi" href="https://www.tripadvisor.com.vn/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="zh-Hant" href="https://www.tripadvisor.com.tw/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="de-CH" href="https://www.tripadvisor.ch/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="fr-CH" href="https://fr.tripadvisor.ch/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="it-CH" href="https://it.tripadvisor.ch/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="en-HK" href="https://en.tripadvisor.com.hk/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="fr-BE" href="https://fr.tripadvisor.be/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="nl-BE" href="https://www.tripadvisor.be/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
-<link rel="alternate" hreflang="zh-hk" href="https://www.tripadvisor.com.hk/Attractions-g188657-Activities-c56-Luxembourg_Province_The_Ardennes_Wallonia.html"/>
 <script type="text/javascript">
 (function () {
 if (typeof console == "undefined") console = {};
